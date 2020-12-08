@@ -26,7 +26,7 @@
     "forum": "",
     "github": "https://github.com/cobaltlend",
     "gitter": "",
-    "instagram": "",
+    "instagram": "1",
     "linkedin": "",
     "reddit": "https://www.reddit.com/user/cobaltlend",
     "slack": "",
